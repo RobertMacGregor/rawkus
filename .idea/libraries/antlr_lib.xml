@@ -1,8 +1,46 @@
 <component name="libraryTable">
   <library name="antlr-lib">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/antlr-lib/antlr4-4.9.1.jar!/" />
-      <root url="jar://$PROJECT_DIR$/antlr-lib/antlr4-runtime-4.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/antlr-lib/antlr4-4.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/antlr-lib/antlr4-runtime-4.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/caffeine-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/commons-configuration-1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/commons-lang3-3.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/exp4j-0.4.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/gremlin-console-3.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/gremlin-core-3.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/gremlin-driver-3.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/gremlin-shaded-3.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/groovy-2.5.14-indy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/groovy-cli-picocli-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/groovy-console-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/groovy-groovysh-2.5.14-indy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/groovy-json-2.5.14-indy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/groovy-jsr223-2.5.14-indy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/groovy-swing-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/groovy-templates-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/groovy-xml-2.5.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/hppc-0.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/httpclient-4.5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/httpcore-4.4.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/ivy-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/javapoet-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/javatuples-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/jbcrypt-0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/jcabi-log-0.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/jcabi-manifests-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/jcl-over-slf4j-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/jline-2.14.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/netty-all-4.1.52.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/picocli-4.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/slf4j-log4j12-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/snakeyaml-1.27.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
