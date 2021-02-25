@@ -41,6 +41,7 @@
       <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/slf4j-api-1.7.25.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/slf4j-log4j12-1.7.25.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/snakeyaml-1.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tinkerpop-lib/tinkergraph-gremlin-3.4.10.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
